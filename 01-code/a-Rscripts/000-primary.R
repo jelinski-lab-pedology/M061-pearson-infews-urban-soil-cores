@@ -1,0 +1,7 @@
+source(here::here("01-code", "a-Rscripts","00-prepare-workspace.R"))
+source(here::here("01-code", "a-Rscripts","01-load-in-and-inspect-data.R"))
+source(here::here("01-code", "a-Rscripts", "02-data-munging.R"))
+source(here::here("01-code", "a-Rscripts", "03-data-analysis.R"))
+source(here::here("01-code", "a-Rscripts", "04-stock-calculations.R"))
+source(here::here("01-code", "a-Rscripts", "05-output-figures.R"))
+source(here::here("01-code", "a-Rscripts", "06-output-tables.R"))
